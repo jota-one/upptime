@@ -19,6 +19,12 @@ sites:
   - name: Be Zulu!
     url: https://bezu.lu
     icon: https://bezu.lu/favicon.png
+  - name: Billing Djinn
+    url: https://billingdjinn.jota.one/
+    icon: https://billingdjinn.jota.one/favicon.ico
+  - name: BlaBlind
+    url: https://blablind.jota.one/
+    icon: https://blablind.jota.one/favicon.ico
 
 assignees: # Users to assign downtime issues (optional)
   - tadaii
