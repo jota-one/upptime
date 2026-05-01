@@ -4,18 +4,20 @@
     "url": "https://jota.one",
     "icon": "https://jota.one/favicon.ico",
     "slug": "jota-one",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 797,
-    "timeDay": 628,
-    "timeWeek": 760,
-    "timeMonth": 797,
-    "timeYear": 797,
-    "dailyMinutesDown": {}
+    "time": 790,
+    "timeDay": 595,
+    "timeWeek": 735,
+    "timeMonth": 790,
+    "timeYear": 790,
+    "dailyMinutesDown": {
+      "2026-05-01": 0
+    }
   },
   {
     "name": "Urban Training",
@@ -94,19 +96,19 @@
     "url": "https://billingdjinn.jota.one/",
     "icon": "https://billingdjinn.jota.one/favicon.ico",
     "slug": "billing-djinn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 735,
-    "timeDay": 637,
-    "timeWeek": 697,
-    "timeMonth": 735,
-    "timeYear": 735,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 732,
+    "timeDay": 643,
+    "timeWeek": 693,
+    "timeMonth": 732,
+    "timeYear": 732,
     "dailyMinutesDown": {
-      "2026-05-01": 0
+      "2026-05-01": 65
     }
   },
   {
