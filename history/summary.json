@@ -94,18 +94,20 @@
     "url": "https://billingdjinn.jota.one/",
     "icon": "https://billingdjinn.jota.one/favicon.ico",
     "slug": "billing-djinn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 743,
-    "timeDay": 732,
-    "timeWeek": 720,
-    "timeMonth": 743,
-    "timeYear": 743,
-    "dailyMinutesDown": {}
+    "time": 735,
+    "timeDay": 637,
+    "timeWeek": 697,
+    "timeMonth": 735,
+    "timeYear": 735,
+    "dailyMinutesDown": {
+      "2026-05-01": 0
+    }
   },
   {
     "name": "BlaBlind",
