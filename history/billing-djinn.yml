@@ -1,7 +1,7 @@
 url: https://billingdjinn.jota.one/
-status: up
-code: 200
-responseTime: 862
-lastUpdated: 2026-05-02T11:13:28.948Z
+status: down
+code: 502
+responseTime: 645
+lastUpdated: 2026-05-02T13:45:22.842Z
 startTime: 2026-04-07T18:34:48.284Z
 generator: Upptime <https://github.com/upptime/upptime>
