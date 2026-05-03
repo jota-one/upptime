@@ -16,8 +16,14 @@ sites:
   - name: Ferenc Farkas
     url: https://ferencfarkas.org
     icon: https://ferencfarkas.org/favicon.ico
+  - name: Ferenc Farkas Medias
+    url: https://media.ferencfarkas.org
+    icon: https://ferencfarkas.org/favicon.ico
   - name: Be Zulu!
     url: https://bezu.lu
+    icon: https://bezu.lu/favicon.png
+  - name: Be Zulu! Medias
+    url: https://media.bezu.lu
     icon: https://bezu.lu/favicon.png
   - name: Ls Flex
     url: https://ls-flex.com
