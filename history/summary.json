@@ -4,9 +4,9 @@
     "url": "https://jota.one",
     "icon": "https://jota.one/favicon.ico",
     "slug": "jota-one",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.81%",
@@ -16,6 +16,7 @@
     "timeMonth": 771,
     "timeYear": 784,
     "dailyMinutesDown": {
+      "2026-05-09": 0,
       "2026-05-02": 43,
       "2026-05-01": 57
     }
@@ -152,14 +153,14 @@
     "icon": "https://billingdjinn.jota.one/favicon.ico",
     "slug": "billing-djinn",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.64%",
+    "uptimeWeek": "98.80%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.56%",
     "time": 717,
     "timeDay": 613,
-    "timeWeek": 691,
+    "timeWeek": 679,
     "timeMonth": 714,
     "timeYear": 717,
     "dailyMinutesDown": {
