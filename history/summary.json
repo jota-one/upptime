@@ -62,19 +62,19 @@
     "url": "https://ferencfarkas.org",
     "icon": "https://ferencfarkas.org/favicon.ico",
     "slug": "ferenc-farkas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 923,
-    "timeDay": 318,
-    "timeWeek": 1157,
-    "timeMonth": 1025,
-    "timeYear": 923,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "94.50%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.88%",
+    "time": 1066,
+    "timeDay": 4121,
+    "timeWeek": 2003,
+    "timeMonth": 1248,
+    "timeYear": 1066,
     "dailyMinutesDown": {
-      "2026-05-19": 1
+      "2026-05-19": 79
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://bezu.lu",
     "icon": "https://bezu.lu/favicon.png",
     "slug": "be-zulu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 393,
-    "timeWeek": 311,
-    "timeMonth": 407,
-    "timeYear": 418,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "94.53%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.88%",
+    "time": 421,
+    "timeDay": 467,
+    "timeWeek": 339,
+    "timeMonth": 411,
+    "timeYear": 421,
     "dailyMinutesDown": {
-      "2026-05-19": 0
+      "2026-05-19": 79
     }
   },
   {
