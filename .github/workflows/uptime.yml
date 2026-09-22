@@ -39,4 +39,6 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           SECRETS_CONTEXT: >-
             {"github_token":"${{ secrets.GH_PAT || github.token }}",
-             "NOTIFICATION_TELEGRAM_BOT_KEY":"${{ secrets.NOTIFICATION_TELEGRAM_BOT_KEY }}"}
+             "NOTIFICATION_TELEGRAM":"${{ secrets.NOTIFICATION_TELEGRAM }}",
+             "NOTIFICATION_TELEGRAM_BOT_KEY":"${{ secrets.NOTIFICATION_TELEGRAM_BOT_KEY }}",
+             "NOTIFICATION_TELEGRAM_CHAT_ID":"${{ secrets.NOTIFICATION_TELEGRAM_CHAT_ID }}"}
